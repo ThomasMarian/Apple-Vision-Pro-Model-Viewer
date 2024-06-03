@@ -42,6 +42,6 @@ To run this project locally, you need to set up a local server. Follow these ste
 
 ## Acknowledgements
 - [Three.js](https://threejs.org/) for the 3D rendering library.
-- [Sketchfab](htps://sketchfab.com/) for the 3D model.
+- [Sketchfab](https://sketchfab.com/) for the 3D model.
 
 ---
