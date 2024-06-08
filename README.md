@@ -22,7 +22,7 @@ To run this project locally, you need to set up a local server. Follow these ste
 
 2. Navigate to the project directory:
    ```bash
-   cd 3d-model-viewer-apple-vision-pro
+   cd applevisionpro
    ```
 
 3. Start a local server. You can use Python's built-in HTTP server or use VS Code LiveServer extension:
